@@ -1,6 +1,5 @@
-# Please note that this project is no longer being maintained:
-
-I'm still working on some Nostr based projects but made the decision to end development on this. Many other Twitter style apps exist on Nostr now so please choose one of those instead. Thanks.
+# Please note
+Forked from https://github.com/BrightonBTC/bija
 
 # Bija Nostr Client
 
